@@ -1,132 +1,143 @@
-# Hi there, I'm Saanvi Grover 👋
+<h1 align="center">Hi 👋, I'm Saanvi Grover</h1>
 
-### Data Science • Machine Learning • AI Applications • Full Stack Development
-
-I'm a Computer Science student passionate about building intelligent applications that solve real-world problems through data.
-
-I enjoy taking ideas from research to deployment by combining data analytics, machine learning, and modern web technologies. My work focuses on predictive analytics, workforce intelligence, automation, and interactive AI-powered applications.
+<h3 align="center">
+Data Science • Machine Learning • AI Applications • Full Stack Development
+</h3>
 
 <p align="center">
-  <a href="https://saanvi-portfolio-kappa.vercel.app/">
-    <img src="https://img.shields.io/badge/🚀_Visit_My_Portfolio-0A66C2?style=for-the-badge" />
-  </a>
+Building intelligent applications powered by data, machine learning, and modern web technologies.
+</p>
+
+<p align="center">
+<a href="https://saanvi-portfolio-kappa.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-0A66C2?style=for-the-badge" />
+</a>
+
+<a href="https://linkedin.com/in/saanvi-grover-01a4b41b7">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:saanvigrover2007@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-## 🚀 What I'm Working On
+# 👩‍💻 About Me
 
-- 🤖 Building end-to-end AI & Machine Learning applications
-- 📊 Developing intelligent analytics dashboards
-- 🧠 Exploring LLM-powered data analysis workflows
-- 🌐 Creating production-ready full-stack data products
+I'm a Computer Science student passionate about solving real-world problems using **Data Science, Machine Learning, and AI**.
+
+I enjoy transforming raw data into meaningful insights and building complete products—from data collection and model development to deployment and interactive user interfaces.
+
+My interests include predictive analytics, workforce intelligence, intelligent automation, data visualization, and LLM-powered applications.
 
 ---
 
-## 🌱 Currently Learning
+# 🚀 What I'm Currently Building
+
+- 🤖 End-to-end Machine Learning applications
+- 📊 Interactive analytics dashboards
+- 🧠 AI-powered data analysis tools
+- 🌐 Full Stack AI products
+- 📈 Workforce Intelligence & Predictive Analytics
+
+---
+
+# 🌱 Currently Learning
 
 - Advanced Machine Learning
-- Deep Learning & Generative AI
-- MLOps & Model Deployment
-- Cloud-based AI Workflows
-- Data Engineering Fundamentals
+- Deep Learning
+- Generative AI
+- MLOps
+- Data Engineering
+- Cloud Deployment
 
 ---
 
-## 🤝 Open to Collaborate
+# 🤝 Open to Collaborate On
 
-I'm always interested in collaborating on:
-
-- Machine Learning Projects
-- Data Science Research
+- Machine Learning
+- Data Science
 - Open Source
 - AI Applications
-- Analytics Dashboards
-- Full Stack AI Products
+- Analytics Platforms
+- Research Projects
 
 ---
 
-## 💬 Ask Me About
+# 💬 Ask Me About
 
 - Python
+- SQL
 - C++
 - Machine Learning
-- Data Analytics
-- SQL
+- Data Analysis
 - Power BI
 - Data Visualization
-- Building AI Portfolio Projects
+- Full Stack AI Development
 
 ---
 
-## ⚡ Fun Fact
+# ⭐ Featured Projects
 
-I genuinely enjoy cleaning messy datasets almost as much as building machine learning models.
+| Project | Description |
+|----------|-------------|
+| 🚀 **SkillLens** | AI-powered career intelligence and skill analytics platform |
+| 🤖 **HELIXFORGE** | AI engineering and machine learning platform |
+| 📊 **TalentScope** | Workforce intelligence & analytics |
+| 🌍 **HeatFluxAI** | Urban Heat Island prediction using machine learning |
+| 📈 **AI/ML Capstone** | End-to-end ML pipeline with EDA, feature engineering, tuning & deployment |
+| 🗃 **SQL Repository** | Collection of SQL interview problems and solutions |
 
 ---
 
-# 🌐 Connect With Me
+# 🛠 Tech Stack
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://saanvi-portfolio-kappa.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saanvi-grover-01a4b41b7)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saanvigrover2007@gmail.com)
-
----
-
-# 💻 Tech Stack
-
-## 👨‍💻 Languages
+### Languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
----
+### Data Science & AI
 
-## 📊 Data Science & Machine Learning
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras)
 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+### Web & Backend
 
----
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 
-## 📈 Data Visualization
+### Databases
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
----
+### Tools
 
-## 🌐 Web Development
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-
----
-
-## 🗄️ Databases
-
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 
 ---
 
-## ⚙️ Tools
+# 🎓 Certifications
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+- Google Data Analytics *(In Progress)*
+- Microsoft PL-300 *(In Progress)*
+- Coursera — Advanced Data Analytics
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 ![](https://github-readme-stats.vercel.app/api?username=SaiGrover&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
@@ -136,6 +147,10 @@ I genuinely enjoy cleaning messy datasets almost as much as building machine lea
 
 ---
 
-### ✍️ Dev Quote
+# 📈 Contribution Graph
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SaiGrover&theme=tokyo-night)](https://github.com/SaiGrover)
+
+---
+
+⭐ *"Building practical AI solutions that transform data into meaningful impact."*
