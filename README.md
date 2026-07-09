@@ -83,12 +83,11 @@ My interests include predictive analytics, workforce intelligence, intelligent a
 
 | Project | Description |
 |----------|-------------|
-| 🚀 **SkillLens** | AI-powered career intelligence and skill analytics platform |
-| 🤖 **HELIXFORGE** | AI engineering and machine learning platform |
-| 📊 **TalentScope** | Workforce intelligence & analytics |
-| 🌍 **HeatFluxAI** | Urban Heat Island prediction using machine learning |
-| 📈 **AI/ML Capstone** | End-to-end ML pipeline with EDA, feature engineering, tuning & deployment |
-| 🗃 **SQL Repository** | Collection of SQL interview problems and solutions |
+| 🚀 **SkillLens** | AI-powered career intelligence and skill analytics platform for workforce intelligence and career planning |
+| 📊 **DataStory AI** | End-to-end AutoML platform that performs EDA, data preprocessing, model training, hyperparameter tuning, and AI-powered insights |
+| 🌍 **HeatFluxAI** | Machine learning platform for Urban Heat Island prediction and environmental analytics |
+| 📈 **AI/ML Capstone** | End-to-end machine learning pipeline featuring EDA, feature engineering, model tuning |
+| 🗃 **SQL Repository** | Curated collection of SQL interview problems, solutions, and database concepts across multiple platforms |
 
 ---
 
