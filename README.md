@@ -1,4 +1,3 @@
-```markdown
 # Hi there, I'm Saanvi Grover 👋
 
 ### Data Science • Machine Learning • AI Applications • Full Stack Development
@@ -140,4 +139,3 @@ I genuinely enjoy cleaning messy datasets almost as much as building machine lea
 ### ✍️ Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-```
