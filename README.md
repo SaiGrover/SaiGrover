@@ -130,9 +130,10 @@ My interests include predictive analytics, workforce intelligence, intelligent a
 
 # 🎓 Certifications
 
-- Google Data Analytics *(In Progress)*
-- Microsoft PL-300 *(In Progress)*
-- Coursera — Advanced Data Analytics
+- Finalist, Statistella BASH 8.0 Data Analytics Competition;
+- Rank 1, Tableau Dashboard Design (Round 1)
+- Google Advanced Data Analytics, Google AI Essentials
+- HackerRank SQL Basic/Intermediate/Advanced, HackerRank Python Basic
 
 ---
 
