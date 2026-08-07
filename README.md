@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm Saanvi Grover</h1>
-
-<h3 align="center">Computer Science Student · Data & AI Builder</h3>
-
 <p align="center">
-  Machine Learning • Data Science • Explainable AI • Full-Stack Applications
+  <img width="100%" src="./assets/profile-header.svg" alt="Saanvi Grover — Computer Science Student and Data & AI Builder" />
 </p>
 
 <p align="center">
@@ -187,4 +183,8 @@ If you’re working on an idea involving **machine learning, analytics, explaina
     Copyright © 2026 Saanvi Grover. All rights reserved.<br />
     Unless expressly stated otherwise, no permission is granted to copy, modify, distribute, commercialize, or create derivative works from my original work without prior direct written permission. See <a href="LICENSE">LICENSE</a>.
   </sub>
+</p>
+
+<p align="center">
+  <img width="100%" src="./assets/profile-footer.svg" alt="Building practical AI solutions that transform data into meaningful impact" />
 </p>

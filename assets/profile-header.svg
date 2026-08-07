@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Saanvi Grover — Data and AI Builder</title>
+  <desc id="desc">Animated blue and violet profile banner for Saanvi Grover.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07111f" />
+      <stop offset="48%" stop-color="#102a56" />
+      <stop offset="100%" stop-color="#30145f" />
+      <animate attributeName="x1" values="0;0.18;0" dur="9s" repeatCount="indefinite" />
+      <animate attributeName="y2" values="1;0.78;1" dur="9s" repeatCount="indefinite" />
+    </linearGradient>
+
+    <radialGradient id="cyanGlow">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.55" />
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0" />
+    </radialGradient>
+
+    <radialGradient id="violetGlow">
+      <stop offset="0%" stop-color="#a78bfa" stop-opacity="0.48" />
+      <stop offset="100%" stop-color="#a78bfa" stop-opacity="0" />
+    </radialGradient>
+
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee" />
+      <stop offset="50%" stop-color="#60a5fa" />
+      <stop offset="100%" stop-color="#c084fc" />
+    </linearGradient>
+
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M 42 0 L 0 0 0 42" fill="none" stroke="#ffffff" stroke-width="0.7" opacity="0.065" />
+    </pattern>
+
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="7" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="300" rx="22" fill="url(#background)" />
+  <rect width="1200" height="300" rx="22" fill="url(#grid)" />
+
+  <circle cx="115" cy="38" r="210" fill="url(#cyanGlow)">
+    <animate attributeName="r" values="185;225;185" dur="7s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0.68;1;0.68" dur="7s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="1080" cy="265" r="245" fill="url(#violetGlow)">
+    <animate attributeName="r" values="215;260;215" dur="8.5s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="1;0.7;1" dur="8.5s" repeatCount="indefinite" />
+  </circle>
+
+  <g opacity="0.75" fill="none" stroke="url(#accent)">
+    <path d="M78 226 C170 156 214 248 314 182 S462 130 545 177" stroke-width="2" stroke-dasharray="7 10">
+      <animate attributeName="stroke-dashoffset" from="0" to="-68" dur="5s" repeatCount="indefinite" />
+    </path>
+    <circle cx="78" cy="226" r="5" fill="#22d3ee" stroke="none" filter="url(#softGlow)" />
+    <circle cx="314" cy="182" r="5" fill="#60a5fa" stroke="none" filter="url(#softGlow)" />
+    <circle cx="545" cy="177" r="5" fill="#c084fc" stroke="none" filter="url(#softGlow)" />
+  </g>
+
+  <g transform="translate(600 82)" text-anchor="middle" font-family="Segoe UI, Inter, Arial, sans-serif">
+    <text y="0" fill="#93c5fd" font-size="15" font-weight="700" letter-spacing="5">HELLO, I'M</text>
+    <text y="68" fill="#ffffff" font-size="58" font-weight="800" letter-spacing="1">Saanvi Grover</text>
+    <rect x="-235" y="89" width="470" height="3" rx="2" fill="url(#accent)">
+      <animate attributeName="width" values="110;470;110" dur="6s" repeatCount="indefinite" />
+      <animate attributeName="x" values="-55;-235;-55" dur="6s" repeatCount="indefinite" />
+    </rect>
+    <text y="128" fill="#dbeafe" font-size="21" font-weight="500" letter-spacing="1.2">Computer Science Student · Data &amp; AI Builder</text>
+  </g>
+
+  <g transform="translate(600 251)" text-anchor="middle" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="13" font-weight="650">
+    <g transform="translate(-285 0)">
+      <rect x="-74" y="-19" width="148" height="38" rx="19" fill="#0f2944" stroke="#38bdf8" stroke-opacity="0.55" />
+      <text y="5" fill="#bae6fd">MACHINE LEARNING</text>
+    </g>
+    <g transform="translate(-92 0)">
+      <rect x="-66" y="-19" width="132" height="38" rx="19" fill="#12294e" stroke="#60a5fa" stroke-opacity="0.55" />
+      <text y="5" fill="#bfdbfe">DATA SCIENCE</text>
+    </g>
+    <g transform="translate(86 0)">
+      <rect x="-62" y="-19" width="124" height="38" rx="19" fill="#1f2454" stroke="#818cf8" stroke-opacity="0.55" />
+      <text y="5" fill="#c7d2fe">EXPLAINABLE AI</text>
+    </g>
+    <g transform="translate(280 0)">
+      <rect x="-78" y="-19" width="156" height="38" rx="19" fill="#2b1c54" stroke="#c084fc" stroke-opacity="0.55" />
+      <text y="5" fill="#e9d5ff">FULL-STACK AI</text>
+    </g>
+  </g>
+</svg>
