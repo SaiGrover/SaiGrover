@@ -1,4 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=230&section=header&text=Saanvi%20Grover&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20Student%20%E2%80%A2%20Data%20%26%20AI%20Builder&descAlignY=59&descSize=19&animation=fadeIn" alt="Saanvi Grover — Computer Science Student and Data & AI Builder" />
+<h1 align="center">Hi 👋, I'm Saanvi Grover</h1>
+
+<h3 align="center">Computer Science Student · Data & AI Builder</h3>
+
+<p align="center">
+  Machine Learning • Data Science • Explainable AI • Full-Stack Applications
+</p>
 
 <p align="center">
   I turn raw data into <strong>explainable models, useful insights, and complete products</strong>.
@@ -49,9 +55,9 @@ saanvi = {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/SaiGrover/CodeLens">🔍 CodeLens</a></h3>
-      <p>A static-code analysis dashboard that turns pasted code into actionable engineering insights, including Halstead metrics, COCOMO estimates, coupling and cohesion analysis, and sequence diagrams.</p>
-      <p><strong>Python · FastAPI · Streamlit · Software Analytics</strong></p>
+      <h3><a href="https://github.com/SaiGrover/Kshetra-sense">🌾 Kshetra Sense</a></h3>
+      <p>An interpretable machine-learning application that matches soil nutrients and climate conditions with suitable crops to support informed agricultural decisions.</p>
+      <p><strong>Python · Machine Learning · Streamlit · Explainable AI</strong></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/SaiGrover/SkillLens">🎯 SkillLens</a></h3>
@@ -73,9 +79,9 @@ saanvi = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/SaiGrover/HELIXFORGE">🧬 HELIXFORGE</a></h3>
-      <p>A full-stack genome assembly system with an optimized algorithmic core, De Bruijn graph construction, k-mer processing, and interactive 3D visualization.</p>
-      <p><strong>C++ · Python · Streamlit · Bioinformatics</strong></p>
+      <h3><a href="https://github.com/SaiGrover/HeatFluxAI">🌍 HeatFluxAI</a></h3>
+      <p>A data-driven environmental analytics system for investigating urban heat island effects through environmental data analysis and interactive visualization.</p>
+      <p><strong>Python · Machine Learning · Environmental Analytics · Visualization</strong></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/SaiGrover/Triage-Tide">🌊 Triage Tide</a></h3>
@@ -182,5 +188,3 @@ If you’re working on an idea involving **machine learning, analytics, explaina
     Unless expressly stated otherwise, no permission is granted to copy, modify, distribute, commercialize, or create derivative works from my original work without prior direct written permission. See <a href="LICENSE">LICENSE</a>.
   </sub>
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:0F172A&height=120&section=footer" alt="Footer" />
