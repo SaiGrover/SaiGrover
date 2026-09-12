@@ -5,7 +5,7 @@
 <p align="center">
   I turn raw data into <strong>explainable models, useful insights, and complete products</strong>.
   <br />
-  My work spans machine learning, analytics, intelligent automation, and full-stack AI applications.
+  My work spans machine learning, analytics, generative AI, and full-stack data applications.
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@
 ```python
 saanvi = {
     "role": "Computer Science student and Data & AI builder",
-    "focus": ["Machine Learning", "Data Science", "AI Applications"],
+    "focus": ["Machine Learning", "Data Science", "Generative AI"],
     "interests": ["Explainable AI", "Workforce Intelligence", "Analytics"],
     "building": "Practical systems that turn data into decisions",
 }
@@ -40,9 +40,9 @@ saanvi = {
 
 - 🔭 I build projects end to end—from data collection and EDA to model development, APIs, deployment, and interactive interfaces.
 - 🧠 I care about explainability, responsible automation, and making complex analysis genuinely useful.
-- 🌱 I’m currently deepening my skills in generative AI, MLOps, data engineering, deep learning, and cloud deployment.
-- 🤝 I’m open to collaborating on data science, machine learning, AI applications, analytics platforms, and research projects.
-- 💬 Ask me about Python, SQL, machine learning, Power BI, data visualization, or full-stack AI development.
+- 🏆 **Finalist, ANALYTICA 2026** National-Level Data Science Hackathon — built the AI backend for a RAG + NL→SQL system over real ARGO ocean data.
+- 🌱 I’m currently deepening my skills in generative AI, MLOps, data engineering, and cloud deployment.
+- 💬 Ask me about Python, SQL, machine learning, RAG / LLM applications, Power BI, or full-stack data development.
 
 ---
 
@@ -51,38 +51,38 @@ saanvi = {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/SaiGrover/Kshetra-sense">🌾 Kshetra Sense</a></h3>
-      <p>An interpretable machine-learning application that matches soil nutrients and climate conditions with suitable crops to support informed agricultural decisions.</p>
-      <p><strong>Python · Machine Learning · Streamlit · Explainable AI</strong></p>
+      <h3>🌊 FloatChat</h3>
+      <p>The AI backend for a system that answers plain-language questions over 12,442 real ARGO ocean-float profiles: RAG-over-schema, natural-language→SQL, and a query safety layer. <em>Finalist, ANALYTICA 2026 (Team Entropy).</em></p>
+      <p><strong>Python · RAG · NL→SQL · PostgreSQL · PostGIS · FastAPI</strong></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/SaiGrover/SkillLens">🎯 SkillLens</a></h3>
-      <p>An AI-powered workforce intelligence platform for skill forecasting, industry insights, career guidance, and evidence-based career planning.</p>
-      <p><strong>Machine Learning · Analytics · Workforce Intelligence</strong></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/SaiGrover/EDA-Studio">📊 EDA Studio</a></h3>
-      <p>An interactive analysis platform for automated exploratory data analysis, statistical profiling, correlation discovery, and visual exploration.</p>
-      <p><strong>Next.js · TypeScript · Plotly · Prisma</strong></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/SaiGrover/DataStory-AI">✨ DataStory AI</a></h3>
-      <p>An AI-assisted data workspace that cleans CSV datasets, automates EDA, creates visual insights, handles class imbalance, and tunes machine-learning models.</p>
-      <p><strong>AutoML · EDA · GridSearchCV · AI Insights</strong></p>
+      <p>An AI-powered workforce intelligence platform for skill forecasting, industry insights, and evidence-based career planning. Built during a mentorship at Persistent Systems.</p>
+      <p><strong>Machine Learning · K-Means · Analytics · Forecasting</strong></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/SaiGrover/HeatFluxAI">🌍 HeatFluxAI</a></h3>
-      <p>A data-driven environmental analytics system for investigating urban heat island effects through environmental data analysis and interactive visualization.</p>
-      <p><strong>Python · Machine Learning · Environmental Analytics · Visualization</strong></p>
+      <p>A machine-learning system estimating urban heat island intensity across 25 global cities from ERA5 and MODIS data; eight regression models compared, best RMSE ≈ 2.14°C with XGBoost.</p>
+      <p><strong>Python · XGBoost · Feature Engineering · Streamlit</strong></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/SaiGrover/Triage-Tide">🌊 Triage Tide</a></h3>
-      <p>A local-first, explainable symptom-triage application with consent-gated AI classification, versioned safety rules, and privacy-aware storage.</p>
-      <p><strong>Python · Streamlit · Groq · Supabase</strong></p>
+      <h3><a href="https://github.com/SaiGrover/TalentScope">👥 HR TalentScope</a></h3>
+      <p>An HR analytics platform on 19,000+ employee records that predicts attrition risk; five ML models compared with a 10+ module workforce-insight dashboard.</p>
+      <p><strong>Python · Classification · EDA · Analytics</strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/SaiGrover/Campus-Lens">🎓 Campus Lens</a></h3>
+      <p>A text-mining platform that classifies student complaints and surfaces recurring issues, locations, and trends for institutions.</p>
+      <p><strong>Text Classification · NLP · Next.js · Data Science</strong></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/SaiGrover/DataStory-AI">✨ DataStory AI</a></h3>
+      <p>An AI-assisted data workspace that cleans CSVs, automates EDA, handles class imbalance, and tunes ML models via grid search.</p>
+      <p><strong>AutoML · EDA · GridSearchCV · Plotly</strong></p>
     </td>
   </tr>
 </table>
@@ -102,20 +102,20 @@ saanvi = {
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=111827" alt="C" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
-<p><strong>Data, machine learning & visualization</strong></p>
+<p><strong>Data, machine learning & AI</strong></p>
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logo=xgboost&logoColor=white" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/RAG_/_LLM-412991?style=flat-square&logo=openai&logoColor=white" alt="RAG / LLM" />
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=111827" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
 </p>
 
 <p><strong>Applications, APIs & data stores</strong></p>
@@ -126,6 +126,7 @@ saanvi = {
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/PostGIS-008BB9?style=flat-square&logo=postgresql&logoColor=white" alt="PostGIS" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=111827" alt="Supabase" />
@@ -143,8 +144,9 @@ saanvi = {
 
 ## Highlights
 
-- 🏆 **Finalist** — Statistella BASH 8.0 Data Analytics Competition
-- 🥇 **Rank 1** — Tableau Dashboard Design, Round 1
+- 🏆 **Finalist** — ANALYTICA 2026 National-Level Data Science Hackathon (VESASC, Mumbai)
+- 🏆 **Finalist** — Statistella BASH 8.0 Data Analytics Competition (with Rank 1, Tableau Dashboard Design Round 1)
+- 🎓 **Certification in AI & ML** — Vishlesan i-Hub, IIT Patna / Masai (CGPA 9.16, 3 Certificates of Excellence)
 - 🎓 **Google Advanced Data Analytics** and **Google AI Essentials**
 - ✅ **HackerRank** — SQL Basic, Intermediate & Advanced; Python Basic
 
@@ -162,7 +164,7 @@ saanvi = {
 
 ## Let’s build something useful
 
-If you’re working on an idea involving **machine learning, analytics, explainable AI, intelligent automation, or data-driven products**, I’d be happy to connect.
+If you’re working on an idea involving **machine learning, analytics, explainable AI, generative AI, or data-driven products**, I’d be happy to connect.
 
 <p align="center">
   <a href="mailto:saanvigrover2007@gmail.com"><strong>Email me</strong></a>
