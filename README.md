@@ -1,11 +1,13 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ============================================================ -->
+<!--                          HERO                                -->
+<!-- ============================================================ -->
 <p align="center">
   <img width="100%" src="./assets/profile-header.svg" alt="Saanvi Grover — Computer Science Student and Data & AI Builder" />
 </p>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=620&lines=Computer+Science+Student+%26+Data+%26+AI+Builder;Machine+Learning+%C2%B7+Data+Science+%C2%B7+Generative+AI;I+turn+raw+data+into+decisions." alt="Typing headline" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=640&lines=Computer+Science+Student+%26+Data+%26+AI+Builder;Machine+Learning+%C2%B7+Data+Science+%C2%B7+Generative+AI;RAG+%2B+NL%E2%86%92SQL+%C2%B7+Explainable+ML+%C2%B7+Full-stack+data+apps;I+turn+raw+data+into+decisions." alt="Typing headline" />
   </a>
 </p>
 
@@ -26,10 +28,12 @@
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-Proprietary-E11D48?style=flat" alt="Proprietary License" /></a>
 </p>
 
-<!-- ===================== ABOUT ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:7C3AED&height=3&width=100%25§ion=header" alt="" />
-
-## 👋 About me
+<!-- ============================================================ -->
+<!--                         ABOUT                                -->
+<!-- ============================================================ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:2563EB,100:7C3AED&height=48&text=About%20Me&fontColor=ffffff&fontSize=26&fontAlignY=62&section=header&width=100%25" alt="About Me" />
+</p>
 
 ```python
 saanvi = {
@@ -46,10 +50,12 @@ saanvi = {
 - 🌱 &nbsp;Currently deepening **generative AI, MLOps, data engineering, and cloud deployment**.
 - 💬 &nbsp;Ask me about **Python, SQL, machine learning, RAG / LLM apps, Power BI**, or full-stack data development.
 
-<!-- ===================== SELECTED WORK ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:7C3AED&height=3&width=100%25§ion=header" alt="" />
-
-## 🚀 Selected work
+<!-- ============================================================ -->
+<!--                      SELECTED WORK                           -->
+<!-- ============================================================ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:2563EB,100:7C3AED&height=48&text=Selected%20Work&fontColor=ffffff&fontSize=26&fontAlignY=62&section=header&width=100%25" alt="Selected Work" />
+</p>
 
 <table>
   <tr>
@@ -121,10 +127,12 @@ saanvi = {
   </a>
 </p>
 
-<!-- ===================== TOOLKIT ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:7C3AED&height=3&width=100%25§ion=header" alt="" />
-
-## 🧰 Technology toolkit
+<!-- ============================================================ -->
+<!--                     TECHNOLOGY TOOLKIT                        -->
+<!-- ============================================================ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:2563EB,100:7C3AED&height=48&text=Technology%20Toolkit&fontColor=ffffff&fontSize=26&fontAlignY=62&section=header&width=100%25" alt="Technology Toolkit" />
+</p>
 
 <p><strong>Languages</strong></p>
 <p>
@@ -169,13 +177,12 @@ saanvi = {
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
-<!-- ===================== HIGHLIGHTS + STREAK ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:7C3AED&height=3&width=100%25§ion=header" alt="" />
-
-## 🏅 Highlights
-
-<table>
-<tr><td>
+<!-- ============================================================ -->
+<!--                        HIGHLIGHTS                            -->
+<!-- ============================================================ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:2563EB,100:7C3AED&height=48&text=Highlights&fontColor=ffffff&fontSize=26&fontAlignY=62&section=header&width=100%25" alt="Highlights" />
+</p>
 
 - 🏆 &nbsp;**Finalist** — ANALYTICA 2026 National-Level Data Science Hackathon (VESASC, Mumbai)
 - 🏆 &nbsp;**Finalist** — Statistella BASH 8.0 Data Analytics Competition &nbsp;·&nbsp; 🥇 Rank 1, Tableau Dashboard Design Round 1
@@ -183,8 +190,22 @@ saanvi = {
 - 🎓 &nbsp;**Google Advanced Data Analytics** &nbsp;·&nbsp; **Google AI Essentials**
 - ✅ &nbsp;**HackerRank** — SQL Basic / Intermediate / Advanced &nbsp;·&nbsp; Python Basic
 
-</td></tr>
-</table>
+<!-- ============================================================ -->
+<!--                    CONTRIBUTION ACTIVITY                     -->
+<!-- ============================================================ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:2563EB,100:7C3AED&height=48&text=Contribution%20Activity&fontColor=ffffff&fontSize=26&fontAlignY=62&section=header&width=100%25" alt="Contribution Activity" />
+</p>
+
+<!-- Snake animation (generated by the GitHub Action in .github/workflows/snake.yml).
+     Falls back gracefully until the Action runs once. -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaiGrover/SaiGrover/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaiGrover/SaiGrover/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/SaiGrover/SaiGrover/output/github-snake.svg" />
+  </picture>
+</p>
 
 <p align="center">
   <a href="https://github.com/SaiGrover">
@@ -192,12 +213,16 @@ saanvi = {
   </a>
 </p>
 
-<!-- ===================== CTA ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:7C3AED&height=3&width=100%25§ion=header" alt="" />
+<!-- ============================================================ -->
+<!--                           CTA                                -->
+<!-- ============================================================ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:2563EB,100:7C3AED&height=48&text=Let's%20build%20something%20useful&fontColor=ffffff&fontSize=24&fontAlignY=62&section=header&width=100%25" alt="Let's build something useful" />
+</p>
 
-## 🤝 Let’s build something useful
-
-If you’re working on an idea involving **machine learning, analytics, explainable AI, generative AI, or data-driven products**, I’d be happy to connect.
+<p align="center">
+  If you’re working on an idea involving <strong>machine learning, analytics, explainable AI, generative AI, or data-driven products</strong>, I’d be happy to connect.
+</p>
 
 <p align="center">
   <a href="mailto:saanvigrover2007@gmail.com"><strong>Email me</strong></a>
