@@ -4,7 +4,7 @@
 </picture>
 
 <p align="center">
-  <a href="https://saanvi-portfolio-kappa.vercel.app/"><strong>Explore my portfolio ↗</strong></a>
+  <a href="https://saanvi-portfolio-kappa.vercel.app/"><strong>Explore my portfolio ↗︎</strong></a>
   &nbsp;&nbsp; / &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/saanvi-grover-01a4b41b7">LinkedIn</a>
   &nbsp;&nbsp; / &nbsp;&nbsp;
@@ -34,7 +34,7 @@ Built the AI backend for a system that answers questions over **12,442 real ARGO
 
 ---
 
-### 02 / [SkillLens ↗](https://github.com/SaiGrover/SkillLens)
+### 02 / [SkillLens ↗︎](https://github.com/SaiGrover/SkillLens)
 **A clearer view of tomorrow's skills.**
 
 An AI-powered workforce intelligence platform for skill forecasting, industry insights, and evidence-based career planning. Built during a mentorship at **Persistent Systems**.
@@ -43,7 +43,7 @@ An AI-powered workforce intelligence platform for skill forecasting, industry in
 
 ---
 
-### 03 / [HeatFluxAI ↗](https://github.com/SaiGrover/HeatFluxAI)
+### 03 / [HeatFluxAI ↗︎](https://github.com/SaiGrover/HeatFluxAI)
 **Understanding the heat in our cities.**
 
 Estimates urban heat island intensity across **25 global cities** using ERA5 and MODIS data. Compared eight regression models; XGBoost achieved the best **RMSE of approximately 2.14°C**.
@@ -52,7 +52,7 @@ Estimates urban heat island intensity across **25 global cities** using ERA5 and
 
 ---
 
-### 04 / [HR TalentScope ↗](https://github.com/SaiGrover/TalentScope)
+### 04 / [HR TalentScope ↗︎](https://github.com/SaiGrover/TalentScope)
 **Workforce insights, backed by evidence.**
 
 An HR analytics platform built on **19,000+ employee records** to predict attrition risk. Compares five ML models and brings workforce insights into a dashboard with more than ten modules.
@@ -61,7 +61,7 @@ An HR analytics platform built on **19,000+ employee records** to predict attrit
 
 ---
 
-### 05 / [Campus Lens ↗](https://github.com/SaiGrover/Campus-Lens)
+### 05 / [Campus Lens ↗︎](https://github.com/SaiGrover/Campus-Lens)
 **Making student feedback easier to act on.**
 
 A text-mining platform that classifies student complaints and surfaces recurring issues, locations, and trends for institutions.
@@ -70,7 +70,7 @@ A text-mining platform that classifies student complaints and surfaces recurring
 
 ---
 
-### 06 / [DataStory AI ↗](https://github.com/SaiGrover/DataStory-AI)
+### 06 / [DataStory AI ↗︎](https://github.com/SaiGrover/DataStory-AI)
 **From messy CSVs to model-ready data.**
 
 An AI-assisted workspace for cleaning CSVs, automating exploratory analysis, handling class imbalance, and tuning machine learning models with grid search.
